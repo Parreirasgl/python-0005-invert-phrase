@@ -1,5 +1,5 @@
-# Inverter uma palavra sem usar funções nativas.
-# Invert a word without using native functions.
+# Invert a word or phrase without using native functions.
+# Inverter uma palavra ou frase sem usar funções nativas.
 
 def word_to_list(word):
     list_word = []
